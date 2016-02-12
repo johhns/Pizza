@@ -19,6 +19,7 @@
 		9CF7AF8A1C448A6D00861B85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CF7AF891C448A6D00861B85 /* Assets.xcassets */; };
 		9CF7AF8D1C448A6D00861B85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CF7AF8B1C448A6D00861B85 /* LaunchScreen.storyboard */; };
 		9CFD0D9D1C6568FC001C9591 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CFD0D9C1C6568FC001C9591 /* Datos.swift */; };
+		9CFDDC201C6E867000DF5E3F /* AceptadaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CFDDC1F1C6E867000DF5E3F /* AceptadaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		9CF7AF8C1C448A6D00861B85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9CF7AF8E1C448A6D00861B85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9CFD0D9C1C6568FC001C9591 /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		9CFDDC1F1C6E867000DF5E3F /* AceptadaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AceptadaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				9C97B5241C46029800A9A343 /* ViewQuesoController.swift */,
 				9CFD0D9C1C6568FC001C9591 /* Datos.swift */,
 				9CF66DED1C67D2CF0099F62A /* IngredientesController.swift */,
+				9CFDDC1F1C6E867000DF5E3F /* AceptadaViewController.swift */,
 			);
 			path = ordenaPizza;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				9CF7AF831C448A6D00861B85 /* AppDelegate.swift in Sources */,
 				9CF66DF01C67EA4A0099F62A /* OrdenViewController.swift in Sources */,
 				9C97B5251C46029800A9A343 /* ViewQuesoController.swift in Sources */,
+				9CFDDC201C6E867000DF5E3F /* AceptadaViewController.swift in Sources */,
 				9CF66DEE1C67D2CF0099F62A /* IngredientesController.swift in Sources */,
 				9C8E6E9E1C44B179000419F4 /* ViewTamanoViewController.swift in Sources */,
 				9CFD0D9D1C6568FC001C9591 /* Datos.swift in Sources */,
